@@ -1,2 +1,7 @@
 # phpstorm project files
 .idea
+
+# except readme.txt
+readme.txt
+
+.gitignore
